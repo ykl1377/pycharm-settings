@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.css;*.hprof;*.js;*.jsx;*.map;*.pyc;*.pyo;*.rbc;*.vue;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;node_modules;static;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="xian" type="PLAIN_TEXT" />
       <mapping pattern="perms_v3" type="PLAIN_TEXT" />
       <mapping pattern="jinan" type="PLAIN_TEXT" />
       <mapping pattern="media_level_gaojing" type="PLAIN_TEXT" />
