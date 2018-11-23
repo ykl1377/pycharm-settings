@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="/usr/local/bin/isort" />
       <option name="PARAMETERS" value="-e -m 4 -w 120 $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/repos/toutiao/app/content/opadmin/console" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/ykl/repos/toutiao/app/content/opadmin/console" />
     </exec>
   </tool>
 </toolSet>
