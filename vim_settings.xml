@@ -1,0 +1,52 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/repos/toutiao/app/content/review/reviewer_manager/rms/scripts/test.py" timestamp="1542360474504">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="0" />
+        <mark key="." line="444" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="445" column="32" filename="$USER_HOME$/repos/toutiao/app/content/review/reviewer_manager/rms/scripts/test.py" />
+      <jump line="545" column="6" filename="$USER_HOME$/repos/toutiao/app/content/review/reviewer_manager/rms/scripts/test.py" />
+      <jump line="443" column="17" filename="$USER_HOME$/repos/toutiao/app/content/review/reviewer_manager/rms/scripts/test.py" />
+      <jump line="440" column="0" filename="$USER_HOME$/repos/toutiao/app/content/review/reviewer_manager/rms/scripts/test.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/repos/toutiao/app/content/review/reviewer_manager/rms/scripts/test.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFsbF9wZXJtcyA9IEthbmlDbGllbnQuZ2V0X3VzZXJfcGVybWlzc2lvbnMoJ3lhbmt1bmxpbicpCiAgICBwcmludCAndGVzdC4xMjMnIGluIGFsbF9wZXJtcwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFsbF9wZXJtcyA9IEthbmlDbGllbnQuZ2V0X3VzZXJfcGVybWlzc2lvbnMoJ3lhbmt1bmxpbicpCiAgICBwcmludCAndGVzdC4xMjMnIGluIGFsbF9wZXJtcwo=</text>
+      </register>
+      <register name="/" type="4">
+        <text>update_perms</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>update_perms</last-search>
+      <last-offset />
+      <last-pattern>update_perms</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>update_perms</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

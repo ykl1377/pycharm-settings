@@ -1,0 +1,228 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Unknown at ~/repos/ss_lib/bin/python2.7" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/repos/ss_lib/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/repos/pyutil" type="simple" />
+            <root url="file://$USER_HOME$/repos/ss_thrift_gen" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-2125986627" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.3 (sftp://yankunlin@10.4.17.165:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="sftp://yankunlin@10.4.17.165:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/1898245713" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-946371511" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-2103724542" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/readability_lxml-0.6.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/201544331" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-2145795944" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-2006528493" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/626867430" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/707066069" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-1231287474" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/706550657" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-456780012" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-1805605029" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-1036056684" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/23257574" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-1676341222" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/1869135405" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="3028e87b-6c87-4d23-80d1-a17a09cec359" WEB_SERVER_CONFIG_NAME="repos" WEB_SERVER_CREDENTIALS_ID="sftp://yankunlin@10.4.17.165:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/data02/home/yankunlin/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/1898245713" remote-root="/usr/local/lib/python2.7/dist-packages/ipdb-0.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-946371511" remote-root="/usr/local/lib/python2.7/dist-packages/ipython-2.2.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-2103724542" remote-root="/usr/local/lib/python2.7/dist-packages/memory_profiler-0.32-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/readability_lxml-0.6.1-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/readability_lxml-0.6.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-2006528493" remote-root="/usr/lib/python2.7/lib-dynload" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/626867430" remote-root="/opt/tiger/pyutil" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/707066069" remote-root="/opt/tiger/sspush" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-1231287474" remote-root="/opt/tiger/ss_thrift_gen" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/706550657" remote-root="/opt/tiger/ss_lib" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-456780012" remote-root="/opt/tiger" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-1805605029" remote-root="/opt/tiger/ss_lib/python_package/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-1036056684" remote-root="/usr/lib/python2.7/dist-packages/PIL" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1869135405/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.6.9 (/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6)" />
+      <type value="Python SDK" />
+      <version value="Python 2.6.9" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/repos/pyutil" type="simple" />
+            <root url="file://$USER_HOME$/repos/ss_thrift_gen" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-dynload" type="simple" />
+            <root url="file:///Library/Python/2.6/site-packages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/Extras/lib/python/PyObjC" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/661428859" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.9 (sftp://yankunlin@10.8.147.97:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="sftp://yankunlin@10.8.147.97:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/201544331" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/724150857" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/626867430" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-1231287474" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/706550657" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-456780012" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-1805605029" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-1676341222" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/2136749209" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="6a6617cb-fe86-4caa-8b69-22ee6ac44f65" WEB_SERVER_CONFIG_NAME="repos_new" WEB_SERVER_CREDENTIALS_ID="sftp://yankunlin@10.8.147.97:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/data00/home/yankunlin/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.9">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/626867430" remote-root="/opt/tiger/pyutil" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-1231287474" remote-root="/opt/tiger/ss_thrift_gen" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/706550657" remote-root="/opt/tiger/ss_lib" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-456780012" remote-root="/opt/tiger" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-1805605029" remote-root="/opt/tiger/ss_lib/python_package/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.1/remote_sources/2136749209/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 virtualenv at ~/repos/toutiao/app/content/opadmin/console/venv" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/repos/toutiao/app/content/opadmin/console/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/toutiao/app/content/opadmin/console" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.9 (sftp://yankunlin@10.8.147.97:22/home/yankunlin/repos/toutiao/runtime/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="sftp://yankunlin@10.8.147.97:22/home/yankunlin/repos/toutiao/runtime/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="6a6617cb-fe86-4caa-8b69-22ee6ac44f65" WEB_SERVER_CONFIG_NAME="repos" WEB_SERVER_CREDENTIALS_ID="sftp://yankunlin@10.8.147.97:22" INTERPRETER_PATH="/home/yankunlin/repos/toutiao/runtime/bin/python" HELPERS_PATH="/data00/home/yankunlin/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="" />
+    </jdk>
+  </component>
+</application>

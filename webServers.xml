@@ -1,0 +1,27 @@
+<application>
+  <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hashKnownHosts="true">
+        <option name="hashHost" value="true" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="9b74414e-8df1-419d-8e3a-53011d09da40" name="repos_i18n" url="http://10.100.6.241">
+        <fileTransfer host="10.100.6.241" port="22" rootFolder="/data00/home/yankunlin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6a6617cb-fe86-4caa-8b69-22ee6ac44f65" name="repos" url="http://10.8.147.97">
+        <fileTransfer host="10.8.147.97" port="22" rootFolder="/data00/home/yankunlin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
