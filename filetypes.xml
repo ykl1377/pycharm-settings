@@ -19,6 +19,7 @@
       <mapping pattern="lh" type="PLAIN_TEXT" />
       <mapping pattern="node_name_perm" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="tianjin_children" type="PLAIN_TEXT" />
       <mapping pattern="ban_mids" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="permissions" type="PLAIN_TEXT" />
@@ -31,6 +32,7 @@
       <mapping pattern="cqc_extra" type="PLAIN_TEXT" />
       <mapping pattern="reduce_mids" type="PLAIN_TEXT" />
       <mapping pattern="pgc_apply" type="PLAIN_TEXT" />
+      <mapping pattern="jinan_children" type="PLAIN_TEXT" />
       <mapping pattern="depart_name" type="PLAIN_TEXT" />
       <mapping pattern="d_gids" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
