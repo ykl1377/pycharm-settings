@@ -18,6 +18,7 @@
       <mapping pattern="all_verifiers" type="PLAIN_TEXT" />
       <mapping pattern="lh" type="PLAIN_TEXT" />
       <mapping pattern="node_name_perm" type="PLAIN_TEXT" />
+      <mapping pattern="tmp1" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="tianjin_children" type="PLAIN_TEXT" />
       <mapping pattern="ban_mids" type="PLAIN_TEXT" />
