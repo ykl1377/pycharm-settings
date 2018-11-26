@@ -21,6 +21,7 @@
       <mapping pattern="tmp1" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="tianjin_children" type="PLAIN_TEXT" />
+      <mapping pattern="tmp2" type="PLAIN_TEXT" />
       <mapping pattern="ban_mids" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="permissions" type="PLAIN_TEXT" />
