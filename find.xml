@@ -17,10 +17,10 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.po</mask>
-    <mask>*.thrift</mask>
     <mask>urls.py</mask>
     <mask>__init__.py</mask>
     <mask>*.py</mask>
+    <mask>*.thrift</mask>
     <mask>*.conf</mask>
   </component>
 </application>
