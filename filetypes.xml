@@ -2,11 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.css;*.hprof;*.js;*.jsx;*.map;*.pyc;*.pyo;*.rbc;*.vue;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;node_modules;static;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern="xian" type="PLAIN_TEXT" />
-      <mapping pattern="lh" type="PLAIN_TEXT" />
       <mapping pattern="jinan" type="PLAIN_TEXT" />
-      <mapping pattern="perms_v3" type="PLAIN_TEXT" />
       <mapping pattern="media_level_gaojing" type="PLAIN_TEXT" />
       <mapping pattern="outsource_perms_v2" type="PLAIN_TEXT" />
       <mapping pattern="verifiers" type="PLAIN_TEXT" />
@@ -17,7 +14,9 @@
       <mapping pattern="ccm_root_depts" type="PLAIN_TEXT" />
       <mapping pattern="source_other" type="PLAIN_TEXT" />
       <mapping pattern="lark_users" type="PLAIN_TEXT" />
+      <mapping pattern="pgc_apply" type="PLAIN_TEXT" />
       <mapping pattern="all_verifiers" type="PLAIN_TEXT" />
+      <mapping pattern="lh" type="PLAIN_TEXT" />
       <mapping pattern="a1" type="PLAIN_TEXT" />
       <mapping pattern="node_name_perm" type="PLAIN_TEXT" />
       <mapping pattern="tmp1" type="PLAIN_TEXT" />
@@ -29,13 +28,13 @@
       <mapping pattern="permissions" type="PLAIN_TEXT" />
       <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern="zshrc" type="PLAIN_TEXT" />
-      <mapping pattern="cqc_extra" type="PLAIN_TEXT" />
       <mapping pattern="low_mids" type="PLAIN_TEXT" />
       <mapping pattern="mid2lang" type="PLAIN_TEXT" />
       <mapping pattern="outsource_perms" type="PLAIN_TEXT" />
       <mapping pattern="projects" type="PLAIN_TEXT" />
+      <mapping pattern="cqc_extra" type="PLAIN_TEXT" />
       <mapping pattern="reduce_mids" type="PLAIN_TEXT" />
-      <mapping pattern="pgc_apply" type="PLAIN_TEXT" />
+      <mapping pattern="perms_v3" type="PLAIN_TEXT" />
       <mapping pattern="jinan_children" type="PLAIN_TEXT" />
       <mapping pattern="depart_name" type="PLAIN_TEXT" />
       <mapping pattern="d_gids" type="PLAIN_TEXT" />
@@ -43,10 +42,8 @@
       <mapping ext="pth" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="pv" type="PLAIN_TEXT" />
-      <removed_mapping ext="conf" approved="true" type="HOCON" />
     </extensionMap>
   </component>
 </application>
